@@ -1,0 +1,22 @@
+<html>
+   <head>
+       <title> The World Wide Web Project </title>
+   </head>
+   <body>
+       <h1> The WorldWideWeb (W3) is a wide-area <a href ="link" hypermedia> information retrieval initiative aiming to give universal access to a large universe of documents. </h1>
+       <h2> Everything there is online about W3 is linked directly or indirectly to this document, including an <a href ="link" executive summary> of the project, <a href ="link" Mailing lists> , <a href ="link" Policy> , November's <a href ="link" W3 News> , <a href ="link" Frequently Asked Questions> . </h2>
+<h3> <dl> <a href = "link" What's out there?> </dl>
+    <dl> Pointers to the world's online information, <a href ="link" subjects>, <a href ="link" W3 servers>, etc. </dl>
+ <dl> <a href = "link" Help> </dl>
+    <dl> on the browser you are using </dl>
+ <dl> <a href ="link" Software Products> </dl> 
+    <dl> A list of W3 project components and their current state. (e.g. <a href ="link" Line Mode> , X11 <a href ="link" Viola> , <a href ="link" NeXTStep> ,<a href ="link" Servers> ,<a href ="link" Tools> ,<a href ="link" Mail Robot> ,<a href ="link" Library> .) </dl>
+<dl> <a href ="link" Technical> </dl>
+    <dl> Details of protocols, formats, program internals etc </dl>                                                                                                                         <dl> <a href ="link" Bibliography> </dl>
+    <dl> Paper documentation on W3 and references. </dl>
+<dl> <a href ="link" Peorple> </dl>
+    <dl> A list of some people involved in the project. </dl>
+<dl> <a href ="link" How can I help?> </dl>
+    <dl> If you would like to support the web. </dl>
+<dl> <a href ="link" Getting code> </dl>
+    <dl> Getting the code by <a href ="link" anonymous FTP>, etc. </h3>
